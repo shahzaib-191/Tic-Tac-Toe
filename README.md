@@ -10,6 +10,13 @@ Sound effects for moves, wins, and restarts
 
 Interactive and easy-to-use UI
 
+# **Technologies** 
+
+✅ Python – Core programming language for game logic
+✅ Streamlit – To create a web-based UI for the game
+✅ Pygame – For handling sounds and game interactions
+✅ TensorFlow Lite – Possibly for AI-based opponent or other ML-related tasks
+
 ## Installation
 
 # Prerequisites
